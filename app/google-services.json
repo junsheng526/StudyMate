@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621715822123",
+    "project_id": "studymate-10fb8",
+    "storage_bucket": "studymate-10fb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621715822123:android:66c831b12a8af21a1f3c6e",
+        "android_client_info": {
+          "package_name": "com.tarumt.studymate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlrUGKNTa-S5q5h8WPdshDsq1eDQcMQMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
