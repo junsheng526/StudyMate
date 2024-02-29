@@ -1,2 +1,2 @@
-# Studymate
+# StudyMate
 MAD Assignment
