@@ -1,4 +1,4 @@
 # Studymate
 MAD Assignment
 
-beautyjie 
+add a comment and beautyjie cmt
